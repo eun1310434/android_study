@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        var number = 0
+        var number = 0//ㅁㄴㅇㄻㄴㅇㄻㄴㅇㄻㄴㅇㄹ
         var number = 0
 
         val test = findViewById<TextView>(R.id.test)
