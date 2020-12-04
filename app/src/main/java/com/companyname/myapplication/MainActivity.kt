@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() {
         sad.setOnClickListener {
             test.setText("sad")
             //hallo welt. 정은택ㅓ욈나ㅓ와러모닝러ㅚㅁ나ㅓㅇ뢰마ㅓ농리ㅏㅓ몬이러ㅗㅁㅇㄴㄹ
+            test.setText("Sad  sdjfjnasdjflasjdlfkja;sldkfj;alksdjf")
         }
 
         //another test2 정은택 입니다.
@@ -34,5 +35,4 @@ class MainActivity : AppCompatActivity() {
 
     // adding a new comment
     }
-
 }
