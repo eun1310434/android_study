@@ -12,6 +12,12 @@ class MainActivity : AppCompatActivity() {
 
         var number = 0
 
+        var number = 0
+        var number = 0
+        var number = 0
+        var number = 0
+        var number = 0
+
         val test = findViewById<TextView>(R.id.test)
         test.setText(number.toString())
 
