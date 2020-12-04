@@ -23,8 +23,7 @@ class MainActivity : AppCompatActivity() {
 
         val sad = findViewById<ImageView>(R.id.sad)
         sad.setOnClickListener {
-            test.setText("sad")
+            test.setText("Sad  sdjfjnasdjflasjdlfkja;sldkfj;alksdjf")
         }
     }
-
 }
