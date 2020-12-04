@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
         sad.setOnClickListener {
             test.setText("sad")
             //hallo welt. 정은택
-        }
+        }//ㄴㅁ이ㅏ러;ㅁ니아ㅓㄹ;ㅣ마넝ㄹ;ㅣ
     }
 
 }
