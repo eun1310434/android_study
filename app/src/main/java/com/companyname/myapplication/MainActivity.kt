@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
             test.setText("sad")
         }
 
-        //another test2
+        //another test2 정은택 입니다.
     }
 
 }
