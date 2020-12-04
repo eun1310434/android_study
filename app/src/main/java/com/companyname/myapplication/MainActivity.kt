@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        var number = 0//ㅁㄴㅇㄻㄴㅇㄻㄴㅇㄻㄴㅇㄹ
         var number = 0
 
         val test = findViewById<TextView>(R.id.test)
@@ -24,6 +25,7 @@ class MainActivity : AppCompatActivity() {
         val sad = findViewById<ImageView>(R.id.sad)
         sad.setOnClickListener {
             test.setText("sad")
+            //hallo welt. 정은택
         }
 
         //another test2 정은택 입니다.
