@@ -25,6 +25,8 @@ class MainActivity : AppCompatActivity() {
         sad.setOnClickListener {
             test.setText("sad")
         }
+
+        //another test2
     }
 
 }
