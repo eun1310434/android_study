@@ -29,6 +29,8 @@ class MainActivity : AppCompatActivity() {
         }
 
         //another test2 정은택 입니다.
+        }//ㄴㅁ이ㅏ러;ㅁ니아ㅓㄹ;ㅣ마넝ㄹ;ㅣ
+            //hallo welt. 정은택ㅓ지더ㅗㄹ;ㅏ머넝;라ㅓ;미나얼;마넝ㄹ;ㅣ마넝ㄹ;
     }
 
 }
