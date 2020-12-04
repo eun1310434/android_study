@@ -23,14 +23,14 @@
         android:layout_below="@+id/test">
         <ImageView
             android:id="@+id/smile"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
             android:src="@drawable/smile"
             android:text="Hello World!"/>
         <ImageView
             android:id="@+id/sad"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
             android:src="@drawable/sad"
             android:text="Hello World!"/>
     </LinearLayout>
